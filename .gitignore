@@ -1,0 +1,4 @@
+neural_networks/
+.env
+*.log
+*.csv
