@@ -1,4 +1,5 @@
 neural_networks/
+neural_network/
 .env
 *.log
 *.csv
